@@ -1,5 +1,10 @@
 * {
     /* border: 1px solid red; */
+    font-family: 'EB Garamond', serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
 }
 
 .ls-btn-bg {
@@ -8,9 +13,24 @@
 
 }
 
+.ls-banner-main {
+    background-image: url("../images/rectangle4.png");
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.ls-search-box {
+    padding: 1.2rem;
+}
+
 .ls-contact-img {
     height: 40px;
     width: 40px;
+}
+
+.ls-card-item:hover {
+    background-color: rgba(231, 231, 231, 1);
 }
 
 .ls-banner-img-1 {
