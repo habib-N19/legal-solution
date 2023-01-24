@@ -1,10 +1,20 @@
 * {
-    /* border: 1px solid red; */
+    border: 1px solid red;
     font-family: 'EB Garamond', serif;
+
+}
+
+.heading-clr {
+    color: #414040;
+}
+
+.paragraph-clr {
+    color: #707070;
 }
 
 p {
     font-family: 'Poppins', sans-serif;
+
 }
 
 .ls-btn-bg {
@@ -16,7 +26,7 @@ p {
 .ls-banner-main {
     background-image: url("../images/rectangle4.png");
     width: 100%;
-    height: 100vh;
+    height: 90vh;
     background-repeat: no-repeat;
 }
 
