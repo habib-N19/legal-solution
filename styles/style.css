@@ -4,10 +4,29 @@
 
 .ls-btn-bg {
     background-color: #B68C5A;
+    color: #ffffff;
 
 }
 
 .ls-contact-img {
     height: 40px;
     width: 40px;
+}
+
+.ls-banner-img-1 {
+    background-image: url('../images/rectangle6.png');
+    height: 65vh;
+    background-size: cover;
+}
+
+.ls-banner-img-2 {
+    background-image: url('../images/law-justice-concept-dark-background.jpg');
+    height: 65vh;
+    background-size: cover;
+}
+
+.ls-banner-img-3 {
+    background-image: url('../images/judges-gavel-scale-justice-black-table.jpg');
+    height: 65vh;
+    background-size: cover;
 }
